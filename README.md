@@ -1,7 +1,7 @@
 # ll-am-ad-l
-ll am adl down load LL a MA without M*ta noticing
-basikli just LL a ma download sript but disguised(with sit grammer to lauh at)
-paast dis into ur terminal/komand line or watever:
+ll am adl down load LL a MA without M*ta noticing</br>
+basikli just LL a ma download sript but disguised(with sit grammer to lauh at)</br>
+paast dis into ur terminal/komand line or watever:</br>
 ```
 # Copyright (c) M*ta Platforms, Inc. and affiliates.
 
